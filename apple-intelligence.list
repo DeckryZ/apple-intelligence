@@ -6,3 +6,5 @@ DOMAIN-SUFFIX,cp4.cloudflare.com
 DOMAIN-SUFFIX,apple-relay.fastly-edge.com
 DOMAIN-SUFFIX,smoot.apple.com
 DOMAIN-SUFFIX,guzzoni.apple.com
+DOMAIN-SUFFIX,gateway.icloud.com
+DOMAIN-SUFFIX,apps.mzstatic.com
