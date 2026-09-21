@@ -1,17 +1,12 @@
-# ── AI Suite：实时推理通道（官方 6 条）──
 DOMAIN,guzzoni.apple.com
 DOMAIN,apple-relay.apple.com
 DOMAIN,apple-relay.cloudflare.com
 DOMAIN,apple-relay.fastly-edge.com
 DOMAIN,cp4.cloudflare.com
 DOMAIN-SUFFIX,smoot.apple.com
-
-# ── AI Suite：地区判定 ──
+DOMAIN,mask-api.icloud.com
 DOMAIN,gspe1-ssl.ls.apple.com
-
-# ── AI Suite：模型可用性判定（只放目录，不放 CDN）──
 DOMAIN,gdmf.apple.com
 DOMAIN,gdmf-ados.apple.com
 DOMAIN,mesu.apple.com
 DOMAIN,gsra.apple.com
-
